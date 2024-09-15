@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
+  CLickedMe() {
+    console.log("Hello Nihal")
+
+  }
+
+
 }
