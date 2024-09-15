@@ -1,4 +1,23 @@
-// Aur CSS Yha 
-.btn{
-    color: red;
+// Aur CSS Yha
+.btn {
+  color: red;
+}
+
+.wrapper-home {
+  height: 500px;
+  width: 500px;
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(18, 9, 121, 1) 13%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.container-home {
+    position: relative;
+}
+.img-tag {
+    position: absolute;
+    top: 0;
+    left: 0;
 }
